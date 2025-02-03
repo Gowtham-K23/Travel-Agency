@@ -28,8 +28,3 @@
    - 📞 Contact Number  
    - 🏢 Office Address  
    - 🔗 Social Media Links  
-
-## 📂 Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/travel-agency.git
